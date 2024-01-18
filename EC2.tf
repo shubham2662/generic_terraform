@@ -8,8 +8,7 @@
  } 
   
 provider "aws" { 
-access_key = "AKIA2EWGMHW464KPZNOT"
-secret_key = "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"
+
 region = var.region
 
 
